@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configrync",
+        "uuid": 8862084,
+        "checksum": "k10cql"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
